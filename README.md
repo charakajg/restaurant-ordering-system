@@ -47,6 +47,7 @@ Note that the images goes to `/uploads` folder
 <img width="712" alt="image" src="https://github.com/charakajg/restaurant-ordering-system/assets/11312827/3b488bf2-1949-4ee2-ae15-7b4ce6a5ac13">
 
 Some validations for dishes
+
 <img width="712" alt="image" src="https://github.com/charakajg/restaurant-ordering-system/assets/11312827/a7883016-2df0-40ad-8687-f64b664f579c">
 <img width="664" alt="image" src="https://github.com/charakajg/restaurant-ordering-system/assets/11312827/00acb235-45e9-4f0b-bffd-6940163a72b7">
 
@@ -54,6 +55,7 @@ Some validations for dishes
 <img width="718" alt="image" src="https://github.com/charakajg/restaurant-ordering-system/assets/11312827/7478f76c-d8bc-423b-8dfb-c90ae8b073b8">
 
 Some validations for order
+
 <img width="676" alt="image" src="https://github.com/charakajg/restaurant-ordering-system/assets/11312827/ef8d3abf-3f8a-4d63-8387-8163abfe410d">
 
 ### Reports
